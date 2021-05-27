@@ -49,7 +49,7 @@
     "body-parser": "^1.15.2",
     "check-node-version": "^1.1.2",
     "classnames": "^2.2.5",
-    "chrome-remote-interface": "0.17.0",
+    "chrome-remote-interface": "0.28.1",
     "co": "=4.6.0",
     "css-loader": "^0.26.1",
     "devtools-config": "^0.0.12",
@@ -90,7 +90,7 @@
     "webpack-dev-middleware": "^1.6.1",
     "webpack-env-loader-plugin": "^0.1.4",
     "webpack-hot-middleware": "^2.12.0",
-    "ws": "^1.0.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "yarn": "^0.20.3"
